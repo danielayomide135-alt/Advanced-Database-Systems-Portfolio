@@ -1,7 +1,7 @@
 # Bank Entities and Business Rules
 
 # Entities
--.**Employee Data:** refers to the details about the bank's employees
+-**Employee Data:** refers to the details about the bank's employees
 - **Customer Data:** refers to the information about a person or businesses that use the bank's services
 - **Loan Data:** Information about loans provided or applied for by customers,
 - **Withdrawal Data:** Records of money withdrawn from bank accounts
