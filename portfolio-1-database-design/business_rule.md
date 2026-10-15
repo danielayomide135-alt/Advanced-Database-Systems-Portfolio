@@ -23,6 +23,7 @@
 - Each employee must have an assigned job title and access privileges appropriate to their responsibilities.
 - Each account must have an account type, opening date, and status.
 - Each account must be linked to at least one customer.
+- Customer information can only be accessed or modified by authorized users.
 
 ## Scope Assumption
 - Every customer, employee, account, deposit, withdrawal, and loan has a unique identification number.
@@ -30,4 +31,3 @@
 
 
 
-Customer information can only be accessed or modified by authorized users.
